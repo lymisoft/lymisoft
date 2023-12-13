@@ -1,6 +1,6 @@
 # Hi there I am Ishmael Lolome👋
 
-**I am a self taught Django Developer, and founder of [Lymisoft Solutions](https://www.lymisoft.com) :computer:**
+**I am a self taught Django Developer, and founder of [Lymisoft Solutions](https://ishmaellolome.com/) :computer:**
 
 
 - 🔭 Django web application Enthusiast
